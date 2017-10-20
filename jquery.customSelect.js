@@ -84,10 +84,10 @@
                             customSelectSpan.removeClass(getClass('Disabled'));
                         }
 
-                        customSelectInnerSpan.css({
-                            width:   selectBoxWidth,
-                            display: 'inline-block'
-                        });
+                        // customSelectInnerSpan.css({
+                        //     width:   selectBoxWidth,
+                        //     display: 'inline-block'
+                        // });
 
                         $select.css({
                             '-webkit-appearance': 'menulist-button',

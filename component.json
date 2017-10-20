@@ -1,12 +1,27 @@
 {
-    "name":         "jquery.customSelect",
-    "version":      "0.5.1",
-    "main":         ["./jquery.customSelect.js", "./jquery.customSelect.min.js"],
-    "dependencies": {
-        "jquery": ">=1.7.2"
-    },
-    "repository":   {
-        "type": "git",
-        "url":  "git://github.com/adamcoulombe/jquery.customSelect.git"
-    }
+  "name": "uww.jquery.customSelect",
+  "version": "0.5.1",
+  "main": [
+    "./jquery.customSelect.js"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/unitedworldwrestling/jquery.customSelect.git"
+  },
+  "homepage": "https://github.com/unitedworldwrestling/jquery.customSelect",
+  "authors": [
+    "Emmanuel Veyrat <emmanuel@unitedworldwrestling.org>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
